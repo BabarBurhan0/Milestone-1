@@ -1,0 +1,76 @@
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  color: #0746f5;
+  background-color: #00e7ff;
+  padding: 10px;
+   box-shadow: 0 2px 4px #0109f3;
+}
+
+h2 {
+  color: #0109f3;
+  background-color: #d9fffd;
+  padding: 5px;
+  box-shadow: 0 2px 4px #5ed1d1;
+}
+
+.contact-info {
+  margin-top: 20px;
+  background-color: #e7f2f2;
+  padding: 10px;
+  box-shadow: 0 2px 4px #0109f3;
+}
+
+.education {
+  margin-top: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.skills {
+  margin-top: 30px;
+  background-color: #e7f2f2;
+}
+.skills ul,
+.interests ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+.experience {
+  margin-top: 30px;
+  background-color: #e7f2f2;
+  box-shadow: 0 2px 4px #0109f3;
+  
+}
+
+.certificates {
+  margin-top: 30px;
+  background-color: #e7f2f2;
+  box-shadow: 0 2px 4px #0109f3;
+}
+
+.interests {
+  margin-top: 30px;
+  background-color: #e7f2f2;
+  box-shadow: 0 2px 4px #0109f3;
+}
